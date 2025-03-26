@@ -13,3 +13,10 @@ Task1- Has /images
 Task2 has-
          /dataanalysis(24BCE2001).ipynb - Jupiter note book file with required graphs
          / " - A pdf version of jupyter notebook
+
+
+
+
+Credits-
+Data in Task 2 derived from https://www.kaggle.com/datasets/hugomathien/soccer/code
+
