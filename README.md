@@ -1,5 +1,5 @@
 # Team-Prometheus-24BCE2001-Submission
-This repository contains assignment file for interview of  Team Prometheus at VIT
+This repository contains assignment file for interview of  Team Prometheus 
 
 <h1>Directory Structure</h1>
 
@@ -20,3 +20,6 @@ Task2 has-
 Credits-
 Data in Task 2 derived from https://www.kaggle.com/datasets/hugomathien/soccer/code
 
+Submitted by
+Satvik Sinha
+24BCE2001
