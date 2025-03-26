@@ -9,7 +9,7 @@ Task1- Has /images
            /best.pt (Yolo V8 model file trained from own dataset)
            /train.py python file that was used in training
            /program.py - python file with code for real time object detection using OpenCV
-
+          and a DOCX file with explanation of how it was done
 Task2 has-
          /dataanalysis(24BCE2001).ipynb - Jupiter note book file with required graphs
          / " - A pdf version of jupyter notebook
